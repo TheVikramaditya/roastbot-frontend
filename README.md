@@ -13,4 +13,11 @@ This repository contains the frontend code for the **Roast Bot** platform. Built
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/roast-bot-frontend.git
+   git clone https://github.com/TheVikramaditya/roastbot-frontend.git
+2. Install package
+   ```bash
+   npm install
+4. Run Frontend
+   ```bash
+   npm run start
+   
