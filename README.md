@@ -23,10 +23,10 @@ This repository contains the frontend code for the **Roast Bot** platform. Built
 ## Contributing
 Feel free to fork the repository, make changes, and submit a pull request if you’d like to contribute.
 
-##Issues & Bugs
+## Issues & Bugs
 If you encounter any issues, please create a new issue on GitHub and provide as much detail as possible.
 
-##Technologies Used
+## Technologies Used
 React - Frontend framework for building user interfaces.
 Vite - Next-generation build tool for faster development.
 
